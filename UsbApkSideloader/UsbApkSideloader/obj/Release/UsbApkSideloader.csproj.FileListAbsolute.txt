@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\bin\Release\UsbApkSideloader.exe.config
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\bin\Release\UsbApkSideloader.exe
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\bin\Release\UsbApkSideloader.pdb
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.Form1.resources
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.Properties.Resources.resources
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.exe
+C:\Users\MSI\source\repos\UsbApkSideloader\UsbApkSideloader\obj\Release\UsbApkSideloader.pdb
