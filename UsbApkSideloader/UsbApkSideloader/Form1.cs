@@ -26,7 +26,7 @@ namespace UsbApkSideloader
             {
                 //openFileDialog.InitialDirectory = "c:\\";
                 openFileDialog.Filter = "apk files (*.apk)|*.apk|All files (*.*)|*.*";
-                openFileDialog.FilterIndex = 2;
+                openFileDialog.FilterIndex = 1;
                 openFileDialog.RestoreDirectory = true;
 
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
